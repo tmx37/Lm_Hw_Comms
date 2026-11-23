@@ -1,4 +1,7 @@
 # embedded_module_template
+STATE -> BLOCKED
+Currently developing the suite in-app.
+Once the whole 
 My own embedded module template for driver and relative logics development.
 
 ## Requirements
