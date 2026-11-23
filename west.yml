@@ -1,0 +1,12 @@
+manifest:
+  remotes:
+    - name: tmx37_github
+      url-base: git@github.com:tmx37
+
+  # Add west repos to include in this project down here
+  # projects:
+  #   - name: GenUtl
+  #     remote: tmx37_github
+  #     repo-path: GenUtl_EmbeddedC
+  #     revision: develop
+  #     path: module_libs
